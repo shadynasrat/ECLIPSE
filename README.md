@@ -1,5 +1,6 @@
-#ECLIPSE
-eclipse jewelry website, linking both webflow and shopify.
+  <img src="https://github.com/shadynasrat/ECLIPSE/blob/main/images/LOGO-B-p-800.png.png">
+  <img src="https://github.com/shadynasrat/ECLIPSE/blob/main/images/LOGO-white-p-500.png">
+
 
 ## Website
-[CLICK HERE](https://shadynasrat.github.io/ECLIPSE-jewelry.github.io/)
+[CLICK HERE](https://shadynasrat.github.io/ECLIPSE/)
